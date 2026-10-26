@@ -1,0 +1,4 @@
+# Phần lõi KHÔNG cần thư viện ngoài (chỉ Python >= 3.10).
+# Các gói dưới đây chỉ dùng để kiểm thử và đối chiếu kết quả.
+pytest>=7.0
+cryptography>=41.0

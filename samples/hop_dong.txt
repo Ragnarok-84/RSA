@@ -1,0 +1,13 @@
+HỢP ĐỒNG MUA BÁN HÀNG HOÁ
+Số: 2026/HĐMB-01
+
+Bên A (Bên bán): Công ty TNHH Alice
+Bên B (Bên mua): Công ty Cổ phần Bob
+
+Điều 1. Hàng hoá: 10 tấn cà phê Robusta loại 1.
+Điều 2. Đơn giá: 120.000.000 VND/tấn. Tổng giá trị: 1.200.000.000 VND.
+Điều 3. Thời hạn giao hàng: trước ngày 30/11/2026 tại kho Bên B.
+Điều 4. Thanh toán: chuyển khoản 100% trong vòng 07 ngày kể từ ngày nhận hàng.
+
+Hợp đồng được ký bằng chữ ký điện tử RSA (RSASSA-PSS, SHA-256) và có giá trị
+như bản giấy theo Luật Giao dịch điện tử 2023.

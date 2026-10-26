@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+
+# Khoá sinh ra khi chạy thử — KHÔNG commit khoá bí mật
+keys/*
+!keys/.gitkeep
+
+# Chữ ký sinh ra khi demo
+*.sig.json
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
